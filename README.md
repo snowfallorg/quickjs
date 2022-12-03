@@ -122,9 +122,9 @@ Result:
 { build = attrs: {/* ... */}; }
 ```
 
-#### `Recorder.record`
+#### `Builder.build`
 
-Create a recording from a tape.
+Build a QuickJS-based application.
 
 Type: `{ files } -> Derivation`
 
