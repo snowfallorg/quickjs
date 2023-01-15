@@ -1,5 +1,5 @@
 {
-  description = "My Nix packages";
+  description = "Snowfall QuickJS";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-22.05";
